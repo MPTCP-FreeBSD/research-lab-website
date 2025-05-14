@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Yavari and Harindu Korala and Dimitrios Georgakopoulos and Jonathan Kua and Hamid Bagha on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/author/ali-yavari-and-harindu-korala-and-dimitrios-georgakopoulos-and-jonathan-kua-and-hamid-bagha/</link>
+    <description>Recent content in Ali Yavari and Harindu Korala and Dimitrios Georgakopoulos and Jonathan Kua and Hamid Bagha on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/ali-yavari-and-harindu-korala-and-dimitrios-georgakopoulos-and-jonathan-kua-and-hamid-bagha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sazgar IoT: A device-centric IoT framework and approximation technique for efficient and scalable IoT data processing</title>
+      <link>http://localhost:1313/publication/jonathan_kua/sazgar_iot__a_device-centric_iot_framework_and_app/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/sazgar_iot__a_device-centric_iot_framework_and_app/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

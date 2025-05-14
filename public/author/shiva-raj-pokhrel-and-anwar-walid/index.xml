@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiva Raj Pokhrel and Anwar Walid on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/author/shiva-raj-pokhrel-and-anwar-walid/</link>
+    <description>Recent content in Shiva Raj Pokhrel and Anwar Walid on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/shiva-raj-pokhrel-and-anwar-walid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Large Language Model Based Joint Source Channel Coding for Semantic Communication</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/on_large_language_model_based_joint_source_channel/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/on_large_language_model_based_joint_source_channel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning to harness bandwidth with multipath congestion control and scheduling</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/learning_to_harness_bandwidth_with_multipath_conge/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/learning_to_harness_bandwidth_with_multipath_conge/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

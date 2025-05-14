@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deol Satish and Shiva Raj Pokhrel and Jonathan Kua and Anwar Walid on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/author/deol-satish-and-shiva-raj-pokhrel-and-jonathan-kua-and-anwar-walid/</link>
+    <description>Recent content in Deol Satish and Shiva Raj Pokhrel and Jonathan Kua and Anwar Walid on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/deol-satish-and-shiva-raj-pokhrel-and-jonathan-kua-and-anwar-walid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distilling Large Language Models for Network Active Queue Management</title>
+      <link>http://localhost:1313/publication/deol_satish/distilling_large_language_models_for_network_activ/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deol_satish/distilling_large_language_models_for_network_activ/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

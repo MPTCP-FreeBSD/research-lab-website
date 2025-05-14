@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev Gurung and Shiva Raj Pokhrel on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/author/dev-gurung-and-shiva-raj-pokhrel/</link>
+    <description>Recent content in Dev Gurung and Shiva Raj Pokhrel on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/dev-gurung-and-shiva-raj-pokhrel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A personalized quantum federated learning</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_personalized_quantum_federated_learning/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_personalized_quantum_federated_learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chained continuous quantum federated learning framework</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/chained_continuous_quantum_federated_learning_fram/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/chained_continuous_quantum_federated_learning_fram/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance Analysis and Design of a Weighted Personalized Quantum Federated Learning</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/performance_analysis_and_design_of_a_weighted_pers/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/performance_analysis_and_design_of_a_weighted_pers/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

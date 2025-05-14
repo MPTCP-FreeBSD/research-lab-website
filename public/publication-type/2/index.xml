@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/publication-type/2/</link>
+    <description>Recent content in 2 on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chained continuous quantum federated learning framework</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/chained_continuous_quantum_federated_learning_fram/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/chained_continuous_quantum_federated_learning_fram/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decentralized quantum federated learning for metaverse: Analysis, design and implementation</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/decentralized_quantum_federated_learning_for_metav/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/decentralized_quantum_federated_learning_for_metav/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Empowering robotic training with kinesthetic learning and digital twins in human-centric industrial systems</title>
+      <link>http://localhost:1313/publication/jonathan_kua/empowering_robotic_training_with_kinesthetic_learn/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/empowering_robotic_training_with_kinesthetic_learn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On Harnessing Semantic Communication With Natural Language Processing</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/on_harnessing_semantic_communication_with_natural_/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/on_harnessing_semantic_communication_with_natural_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Federated Learning for Metaverse: Analysis, Design and Implementation</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/quantum_federated_learning_for_metaverse__analysis/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/quantum_federated_learning_for_metaverse__analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum federated learning: Analysis, design and implementation challenges</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/quantum_federated_learning__analysis_design_and_i/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/quantum_federated_learning__analysis_design_and_i/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Secure communication model for quantum federated learning: A post quantum cryptography (pqc) framework</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/secure_communication_model_for_quantum_federated_l/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/secure_communication_model_for_quantum_federated_l/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towards Decentralized Operationalization of Zero Trust Architecture for Next Generation Networks</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/towards_decentralized_operationalization_of_zero_t/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/towards_decentralized_operationalization_of_zero_t/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trusted Microservice Orchestration for Secure Edge Computing in Industrial Cyber-Physical Systems</title>
+      <link>http://localhost:1313/publication/jonathan_kua/trusted_microservice_orchestration_for_secure_edge/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/trusted_microservice_orchestration_for_secure_edge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A novel frequency reuse model for co-existing LEO and GEO satellites</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_novel_frequency_reuse_model_for_co-existing_leo_/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_novel_frequency_reuse_model_for_co-existing_leo_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Active Queue Management in L4S with Asynchronous Advantage Actor-Critic: A FreeBSD Networking Stack Perspective</title>
+      <link>http://localhost:1313/publication/deol_satish/active_queue_management_in_l4s_with_asynchronous_a/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deol_satish/active_queue_management_in_l4s_with_asynchronous_a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation and orchestration of zero trust architecture: Potential solutions and challenges</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/automation_and_orchestration_of_zero_trust_archite/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/automation_and_orchestration_of_zero_trust_archite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud-Fog Automation: Vision, Enabling Technologies, and Future Research Directions</title>
+      <link>http://localhost:1313/publication/jonathan_kua/cloud-fog_automation__vision_enabling_technologie/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/cloud-fog_automation__vision_enabling_technologie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data-driven satellite communication and control for future IoT: Principles and opportunities</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/data-driven_satellite_communication_and_control_fo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/data-driven_satellite_communication_and_control_fo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DDPG-MPCC: An Experience Driven Multipath Performance Oriented Congestion Control</title>
+      <link>http://localhost:1313/publication/deol_satish/ddpg-mpcc__an_experience_driven_multipath_performa/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deol_satish/ddpg-mpcc__an_experience_driven_multipath_performa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multipath TCP implementation under FreeBSD-13 for pluggable machine learning models</title>
+      <link>http://localhost:1313/publication/jonathan_kua/multipath_tcp_implementation_under_freebsd-13_for_/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/multipath_tcp_implementation_under_freebsd-13_for_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the Fairness of Internet Congestion Control over WiFi with Deep Reinforcement Learning</title>
+      <link>http://localhost:1313/publication/jonathan_kua/on_the_fairness_of_internet_congestion_control_ove/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/on_the_fairness_of_internet_congestion_control_ove/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orchestrating smart grid demand response operations with URLLC and MuZero learning</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/orchestrating_smart_grid_demand_response_operation/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/orchestrating_smart_grid_demand_response_operation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PFL-DKD: Modeling decoupled knowledge fusion with distillation for improving personalized federated learning</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/pfl-dkd__modeling_decoupled_knowledge_fusion_with_/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/pfl-dkd__modeling_decoupled_knowledge_fusion_with_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding global aggregation and optimization of federated learning</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/understanding_global_aggregation_and_optimization_/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/understanding_global_aggregation_and_optimization_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A knowledge graph-based survey on distributed ledger technology for iot verticals</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_knowledge_graph-based_survey_on_distributed_ledg/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_knowledge_graph-based_survey_on_distributed_ledg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Survey of Distributed Ledger Technology for IoT Verticals</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_survey_of_distributed_ledger_technology_for_iot_/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_survey_of_distributed_ledger_technology_for_iot_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deakin RF-sensing: Experiments on correlated knowledge distillation for monitoring human postures with radios</title>
+      <link>http://localhost:1313/publication/deol_satish/deakin_rf-sensing__experiments_on_correlated_knowl/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deol_satish/deakin_rf-sensing__experiments_on_correlated_knowl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Distilling Large Language Models for Network Active Queue Management</title>
+      <link>http://localhost:1313/publication/deol_satish/distilling_large_language_models_for_network_activ/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deol_satish/distilling_large_language_models_for_network_activ/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Efficient and private scheduling of wireless electric vehicles charging using reinforcement learning</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/efficient_and_private_scheduling_of_wireless_elect/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/efficient_and_private_scheduling_of_wireless_elect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interrelated feature selection from health surveys using domain knowledge graph</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/interrelated_feature_selection_from_health_surveys/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/interrelated_feature_selection_from_health_surveys/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On correlated knowledge distillation for monitoring human pose with radios</title>
+      <link>http://localhost:1313/publication/deol_satish/on_correlated_knowledge_distillation_for_monitorin/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deol_satish/on_correlated_knowledge_distillation_for_monitorin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy preservation in smart meters: current status, challenges and future directions</title>
+      <link>http://localhost:1313/publication/jonathan_kua/privacy_preservation_in_smart_meters__current_stat/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/privacy_preservation_in_smart_meters__current_stat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Propagation of inequality: an analysis of capability development opportunities of Dalits in higher education on the Indian subcontinent</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/propagation_of_inequality__an_analysis_of_capabili/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/propagation_of_inequality__an_analysis_of_capabili/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sazgar IoT: A device-centric IoT framework and approximation technique for efficient and scalable IoT data processing</title>
+      <link>http://localhost:1313/publication/jonathan_kua/sazgar_iot__a_device-centric_iot_framework_and_app/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/sazgar_iot__a_device-centric_iot_framework_and_app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smart grid meets URLLC: A federated orchestration with improved communication for efficient energy resources management</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/smart_grid_meets_urllc__a_federated_orchestration_/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/smart_grid_meets_urllc__a_federated_orchestration_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Studying the spatio-temporal changes of urban green space: A case study of Pokhara Metropolitan City</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/studying_the_spatio-temporal_changes_of_urban_gree/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/studying_the_spatio-temporal_changes_of_urban_gree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understand-before-talk (UBT): A semantic communication approach to 6G networks</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/understand-before-talk_ubt__a_semantic_communica/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/understand-before-talk_ubt__a_semantic_communica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4G to 6G: Disruptions and drivers for optical access</title>
+      <link>http://localhost:1313/publication/jonathan_kua/4g_to_6g__disruptions_and_drivers_for_optical_acce/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/4g_to_6g__disruptions_and_drivers_for_optical_acce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Game-Theoretic Rent-Seeking Framework for Improving Multipath TCP Performance</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_game-theoretic_rent-seeking_framework_for_improv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_game-theoretic_rent-seeking_framework_for_improv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A rent-seeking framework for multipath TCP</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_rent-seeking_framework_for_multipath_tcp/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_rent-seeking_framework_for_multipath_tcp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data privacy of wireless charging vehicle to grid (V2G) networks with federated learning</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/data_privacy_of_wireless_charging_vehicle_to_grid_/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/data_privacy_of_wireless_charging_vehicle_to_grid_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet of Drones: Improving multipath TCP over WiFi with federated multi-armed bandits for limitless connectivity</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/internet_of_drones__improving_multipath_tcp_over_w/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/internet_of_drones__improving_multipath_tcp_over_w/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet of things for healthcare: an intelligent and energy efficient position detection algorithm</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/internet_of_things_for_healthcare__an_intelligent_/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/internet_of_things_for_healthcare__an_intelligent_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning from data streams for automation and orchestration of 6G industrial IoT: toward a semantic communication framework</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/learning_from_data_streams_for_automation_and_orch/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/learning_from_data_streams_for_automation_and_orch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance analysis of OPC UA for industrial interoperability towards Industry 4.0</title>
+      <link>http://localhost:1313/publication/jonathan_kua/performance_analysis_of_opc_ua_for_industrial_inte/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/performance_analysis_of_opc_ua_for_industrial_inte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real-time flood monitoring with computer vision through edge computing-based Internet of Things</title>
+      <link>http://localhost:1313/publication/jonathan_kua/real-time_flood_monitoring_with_computer_vision_th/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/real-time_flood_monitoring_with_computer_vision_th/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towards a Policy Development Methodology for Human-Centred IoT Collectives</title>
+      <link>http://localhost:1313/publication/jonathan_kua/towards_a_policy_development_methodology_for_human/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/towards_a_policy_development_methodology_for_human/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towards enhanced PDF maldocs detection with feature engineering: design challenges</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/towards_enhanced_pdf_maldocs_detection_with_featur/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/towards_enhanced_pdf_maldocs_detection_with_featur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A blockchained federated learning framework for cognitive computing in industry 4.0 networks</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_blockchained_federated_learning_framework_for_co/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_blockchained_federated_learning_framework_for_co/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An Efficient Clustering Framework for Massive Sensor Networking in Industrial IoT</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/an_efficient_clustering_framework_for_massive_sens/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/an_efficient_clustering_framework_for_massive_sens/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An intelligent and optimal resource allocation approach in sensor networks for smart agri-IoT</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/an_intelligent_and_optimal_resource_allocation_app/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/an_intelligent_and_optimal_resource_allocation_app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automatic failure recovery for container-based IoT edge applications</title>
+      <link>http://localhost:1313/publication/jonathan_kua/automatic_failure_recovery_for_container-based_iot/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/automatic_failure_recovery_for_container-based_iot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain brings trust to collaborative drones and LEO satellites: An intelligent decentralized learning in the space</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/blockchain_brings_trust_to_collaborative_drones_an/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/blockchain_brings_trust_to_collaborative_drones_an/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compound TCP Performance for Industry 4.0 WiFi: A Cognitive Federated Learning Approach</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/compound_tcp_performance_for_industry_4.0_wifi__a_/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/compound_tcp_performance_for_industry_4.0_wifi__a_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explore-before-talk: Multichannel selection diversity for uplink transmissions in machine-type communication</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/explore-before-talk__multichannel_selection_divers/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/explore-before-talk__multichannel_selection_divers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Improving malicious PDF classifier with feature engineering: A data-driven approach</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/improving_malicious_pdf_classifier_with_feature_en/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/improving_malicious_pdf_classifier_with_feature_en/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet of things in space: A review of opportunities and challenges from satellite-aided computing to digitally-enhanced space living</title>
+      <link>http://localhost:1313/publication/jonathan_kua/internet_of_things_in_space__a_review_of_opportuni/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/internet_of_things_in_space__a_review_of_opportuni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modeling RIS empowered outdoor-to-indoor communication in mmWave cellular networks</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/modeling_ris_empowered_outdoor-to-indoor_communica/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/modeling_ris_empowered_outdoor-to-indoor_communica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modelling data aided sensing with UAVs for efficient data collection</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/modelling_data_aided_sensing_with_uavs_for_efficie/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/modelling_data_aided_sensing_with_uavs_for_efficie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multipath communication with deep Q-network for industry 4.0 automation and orchestration</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/multipath_communication_with_deep_q-network_for_in/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/multipath_communication_with_deep_q-network_for_in/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multipath TCP meets transfer learning: A novel edge-based learning for industrial IoT</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/multipath_tcp_meets_transfer_learning__a_novel_edg/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/multipath_tcp_meets_transfer_learning__a_novel_edg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimal Centralized Dynamic-Time-Division-Duplex</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/optimal_centralized_dynamic-time-division-duplex/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/optimal_centralized_dynamic-time-division-duplex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy-Aware Autonomous Valet Parking: Towards Experience Driven Approach</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/privacy-aware_autonomous_valet_parking__towards_ex/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/privacy-aware_autonomous_valet_parking__towards_ex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redesigning compound TCP with cognitive edge intelligence for WiFi-based IoT</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/redesigning_compound_tcp_with_cognitive_edge_intel/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/redesigning_compound_tcp_with_cognitive_edge_intel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software defined internet of vehicles for automation and orchestration</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/software_defined_internet_of_vehicles_for_automati/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/software_defined_internet_of_vehicles_for_automati/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towards a policy management framework for managing interaction behaviors in IoT collectives</title>
+      <link>http://localhost:1313/publication/jonathan_kua/towards_a_policy_management_framework_for_managing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/towards_a_policy_management_framework_for_managing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adaptive admission control for IoT applications in home WiFi networks</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/adaptive_admission_control_for_iot_applications_in/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/adaptive_admission_control_for_iot_applications_in/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alleviating heterogeneity in SDN-IoT networks to maintain QoS and enhance security</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/alleviating_heterogeneity_in_sdn-iot_networks_to_m/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/alleviating_heterogeneity_in_sdn-iot_networks_to_m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Federated Learning With Blockchain for Autonomous Vehicles: Analysis and Design</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/federated_learning_with_blockchain_for_autonomous_/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/federated_learning_with_blockchain_for_autonomous_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Federated learning with multichannel ALOHA</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/federated_learning_with_multichannel_aloha/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/federated_learning_with_multichannel_aloha/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Identifying OSPF LSA falsification attacks through non-linear analysis</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/identifying_ospf_lsa_falsification_attacks_through/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/identifying_ospf_lsa_falsification_attacks_through/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Improving TCP performance over WiFi for internet of vehicles: A federated learning approach</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/improving_tcp_performance_over_wifi_for_internet_o/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/improving_tcp_performance_over_wifi_for_internet_o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>QoS-aware personalized privacy with multipath TCP for industrial IoT: Analysis and design</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/qos-aware_personalized_privacy_with_multipath_tcp_/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/qos-aware_personalized_privacy_with_multipath_tcp_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towards enabling critical mMTC: A review of URLLC within mMTC</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/towards_enabling_critical_mmtc__a_review_of_urllc_/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/towards_enabling_critical_mmtc__a_review_of_urllc_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Achieving high performance content streaming with adaptive chunklets and active queue management</title>
+      <link>http://localhost:1313/publication/jonathan_kua/achieving_high_performance_content_streaming_with_/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/achieving_high_performance_content_streaming_with_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adaptive chunklets and AQM for higher-performance content streaming</title>
+      <link>http://localhost:1313/publication/jonathan_kua/adaptive_chunklets_and_aqm_for_higher-performance_/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/adaptive_chunklets_and_aqm_for_higher-performance_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fair coexistence of regular and multipath TCP over wireless last-miles</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/fair_coexistence_of_regular_and_multipath_tcp_over/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/fair_coexistence_of_regular_and_multipath_tcp_over/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Improving multipath TCP performance over WiFi and cellular networks: An analytical approach</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/improving_multipath_tcp_performance_over_wifi_and_/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/improving_multipath_tcp_performance_over_wifi_and_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Low-Delay Scheduling For Internet of Vehicles</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/low-delay_scheduling_for_internet_of_vehicles/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/low-delay_scheduling_for_internet_of_vehicles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Low-delay scheduling for internet of vehicles: Load-balanced multipath communication with FEC</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/low-delay_scheduling_for_internet_of_vehicles__loa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/low-delay_scheduling_for_internet_of_vehicles__loa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobility-aware multipath communication for unmanned aerial surveillance systems</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/mobility-aware_multipath_communication_for_unmanne/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/mobility-aware_multipath_communication_for_unmanne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modeling Compound TCP Over WiFi for IoT</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/modeling_compound_tcp_over_wifi_for_iot/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/modeling_compound_tcp_over_wifi_for_iot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A survey of rate adaptation techniques for dynamic adaptive streaming over HTTP</title>
+      <link>http://localhost:1313/publication/jonathan_kua/a_survey_of_rate_adaptation_techniques_for_dynamic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/a_survey_of_rate_adaptation_techniques_for_dynamic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analytical modeling of multipath TCP over last-mile wireless</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/analytical_modeling_of_multipath_tcp_over_last-mil/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/analytical_modeling_of_multipath_tcp_over_last-mil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Using active queue management to assist IoT application flows in home broadband networks</title>
+      <link>http://localhost:1313/publication/jonathan_kua/using_active_queue_management_to_assist_iot_applic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/using_active_queue_management_to_assist_iot_applic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TCP performance over Wi-Fi: Joint impact of buffer and channel losses</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/tcp_performance_over_wi-fi__joint_impact_of_buffer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/tcp_performance_over_wi-fi__joint_impact_of_buffer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance analysis of TCP NewReno over a cellular last-mile: Buffer and channel losses</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/performance_analysis_of_tcp_newreno_over_a_cellula/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/performance_analysis_of_tcp_newreno_over_a_cellula/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

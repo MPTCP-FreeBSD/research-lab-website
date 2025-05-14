@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiva Raj Pokhrel on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/author/shiva-raj-pokhrel/</link>
+    <description>Recent content in Shiva Raj Pokhrel on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/shiva-raj-pokhrel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poster: Orbital ZTA! Secure Satellite Communication Networks with Zero Trust Architecture</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/poster__orbital_zta_secure_satellite_communicatio/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/poster__orbital_zta_secure_satellite_communicatio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning from data streams for automation and orchestration of 6G industrial IoT: toward a semantic communication framework</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/learning_from_data_streams_for_automation_and_orch/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/learning_from_data_streams_for_automation_and_orch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain brings trust to collaborative drones and LEO satellites: An intelligent decentralized learning in the space</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/blockchain_brings_trust_to_collaborative_drones_an/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/blockchain_brings_trust_to_collaborative_drones_an/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software defined internet of vehicles for automation and orchestration</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/software_defined_internet_of_vehicles_for_automati/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/software_defined_internet_of_vehicles_for_automati/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Federated learning meets blockchain at 6G edge: A drone-assisted networking for disaster response</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/federated_learning_meets_blockchain_at_6g_edge__a_/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/federated_learning_meets_blockchain_at_6g_edge__a_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dr. Shiva Raj Pokhrel</title>
+      <link>http://localhost:1313/author/dr.-shiva-raj-pokhrel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/dr.-shiva-raj-pokhrel/</guid>
+      <description>&lt;p&gt;Dr. Shiva Pokhrel is a distinguished Marie Curie Fellow and Senior Lecturer in Mobile Computing at Deakin University&amp;rsquo;s School of Information Technology. He earned his PhD in ICT Engineering from Swinburne University of Technology, Australia. Dr. Pokhrel&amp;rsquo;s extensive career includes a tenure as a research fellow at the University of Melbourne and a seven-year role as a Network Engineer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

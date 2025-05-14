@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiva Raj Pokhrel and Neeraj Kumar and Anwar Walid on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/author/shiva-raj-pokhrel-and-neeraj-kumar-and-anwar-walid/</link>
+    <description>Recent content in Shiva Raj Pokhrel and Neeraj Kumar and Anwar Walid on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/shiva-raj-pokhrel-and-neeraj-kumar-and-anwar-walid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Ultra-Reliable Low Latency Multipath TCP For Connected Autonomous Vehicles</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/on_ultra-reliable_low_latency_multipath_tcp_for_co/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/on_ultra-reliable_low_latency_multipath_tcp_for_co/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towards ultra reliable low latency multipath TCP for connected autonomous vehicles</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/towards_ultra_reliable_low_latency_multipath_tcp_f/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/towards_ultra_reliable_low_latency_multipath_tcp_f/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiva Raj Pokhrel and Jinho Choi on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/author/shiva-raj-pokhrel-and-jinho-choi/</link>
+    <description>Recent content in Shiva Raj Pokhrel and Jinho Choi on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/shiva-raj-pokhrel-and-jinho-choi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-driven satellite communication and control for future IoT: Principles and opportunities</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/data-driven_satellite_communication_and_control_fo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/data-driven_satellite_communication_and_control_fo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understand-before-talk (UBT): A semantic communication approach to 6G networks</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/understand-before-talk_ubt__a_semantic_communica/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/understand-before-talk_ubt__a_semantic_communica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding before transmission (UBT): Hashing-based semantic communication model</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/understanding_before_transmission_ubt__hashing-b/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/understanding_before_transmission_ubt__hashing-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adaptive coexistence of delay-sensitive and delay-tolerant MTC devices: A control-theoretic approach</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/adaptive_coexistence_of_delay-sensitive_and_delay-/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/adaptive_coexistence_of_delay-sensitive_and_delay-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A decentralized federated learning approach for connected autonomous vehicles</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_decentralized_federated_learning_approach_for_co/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_decentralized_federated_learning_approach_for_co/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Federated Learning With Blockchain for Autonomous Vehicles: Analysis and Design</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/federated_learning_with_blockchain_for_autonomous_/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/federated_learning_with_blockchain_for_autonomous_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Improving TCP performance over WiFi for internet of vehicles: A federated learning approach</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/improving_tcp_performance_over_wifi_for_internet_o/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/improving_tcp_performance_over_wifi_for_internet_o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Low-Delay Scheduling For Internet of Vehicles</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/low-delay_scheduling_for_internet_of_vehicles/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/low-delay_scheduling_for_internet_of_vehicles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Low-delay scheduling for internet of vehicles: Load-balanced multipath communication with FEC</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/low-delay_scheduling_for_internet_of_vehicles__loa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/low-delay_scheduling_for_internet_of_vehicles__loa/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

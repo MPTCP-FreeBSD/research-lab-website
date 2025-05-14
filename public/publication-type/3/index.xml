@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/publication-type/3/</link>
+    <description>Recent content in 3 on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Framework for Resilient Autonomic Internet of Things Applications</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_framework_for_resilient_autonomic_internet_of_th/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_framework_for_resilient_autonomic_internet_of_th/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Effectiveness of IoT and VR for real-time teleoperation of industrial robots</title>
+      <link>http://localhost:1313/publication/jonathan_kua/effectiveness_of_iot_and_vr_for_real-time_teleoper/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/effectiveness_of_iot_and_vr_for_real-time_teleoper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fedftrl: Modeling Federated Learning of Heterogeneous Clients with Follow the Regularized Leader (Ftrl)</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/fedftrl__modeling_federated_learning_of_heterogene/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/fedftrl__modeling_federated_learning_of_heterogene/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance Analysis and Evaluation of Post Quantum Secure Blockchained Federated Learning</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/performance_analysis_and_evaluation_of_post_quantu/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/performance_analysis_and_evaluation_of_post_quantu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/post_quantum_secure_blockchain-based_federated_lea/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/post_quantum_secure_blockchain-based_federated_lea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy cost optimization of smart meters using URLLC and demand side energy trading</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/privacy_cost_optimization_of_smart_meters_using_ur/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/privacy_cost_optimization_of_smart_meters_using_ur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adaptive coexistence of delay-sensitive and delay-tolerant MTC devices: A control-theoretic approach</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/adaptive_coexistence_of_delay-sensitive_and_delay-/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/adaptive_coexistence_of_delay-sensitive_and_delay-/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fair and efficient distributed edge learning with hybrid multipath TCP</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/fair_and_efficient_distributed_edge_learning_with_/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/fair_and_efficient_distributed_edge_learning_with_/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Practically private smart meters with energy storage: An experience-driven approach</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/practically_private_smart_meters_with_energy_stora/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/practically_private_smart_meters_with_energy_stora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enabling grant-free URLLC: An overview of principle and enhancements by massive MIMO</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/enabling_grant-free_urllc__an_overview_of_principl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/enabling_grant-free_urllc__an_overview_of_principl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning to harness bandwidth with multipath congestion control and scheduling</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/learning_to_harness_bandwidth_with_multipath_conge/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/learning_to_harness_bandwidth_with_multipath_conge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On Ultra-Reliable Low Latency Multipath TCP For Connected Autonomous Vehicles</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/on_ultra-reliable_low_latency_multipath_tcp_for_co/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/on_ultra-reliable_low_latency_multipath_tcp_for_co/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towards ultra reliable low latency multipath TCP for connected autonomous vehicles</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/towards_ultra_reliable_low_latency_multipath_tcp_f/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/towards_ultra_reliable_low_latency_multipath_tcp_f/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automated knowledge graph construction for healthcare domain</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/automated_knowledge_graph_construction_for_healthc/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/automated_knowledge_graph_construction_for_healthc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generating Dynamic Adaptive Streaming over HTTP Traffic Flows with TEACUP Testbed</title>
+      <link>http://localhost:1313/publication/jonathan_kua/generating_dynamic_adaptive_streaming_over_http_tr/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/generating_dynamic_adaptive_streaming_over_http_tr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modeling practically private wireless vehicle to grid system with federated reinforcement learning</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/modeling_practically_private_wireless_vehicle_to_g/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/modeling_practically_private_wireless_vehicle_to_g/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modeling Quantum Machine Learning for Genomic Data Analysis</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/modeling_quantum_machine_learning_for_genomic_data/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/modeling_quantum_machine_learning_for_genomic_data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multiple Edge Data Integrity Verification With Multi-Vendors and Multi-Servers in Mobile Edge Computing</title>
+      <link>http://localhost:1313/publication/jonathan_kua/multiple_edge_data_integrity_verification_with_mul/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/multiple_edge_data_integrity_verification_with_mul/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance Analysis and Design of a Weighted Personalized Quantum Federated Learning</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/performance_analysis_and_design_of_a_weighted_pers/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/performance_analysis_and_design_of_a_weighted_pers/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

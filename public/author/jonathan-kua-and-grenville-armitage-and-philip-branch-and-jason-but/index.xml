@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Kua and Grenville Armitage and Philip Branch and Jason But on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/author/jonathan-kua-and-grenville-armitage-and-philip-branch-and-jason-but/</link>
+    <description>Recent content in Jonathan Kua and Grenville Armitage and Philip Branch and Jason But on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/jonathan-kua-and-grenville-armitage-and-philip-branch-and-jason-but/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adaptive chunklets and AQM for higher-performance content streaming</title>
+      <link>http://localhost:1313/publication/jonathan_kua/adaptive_chunklets_and_aqm_for_higher-performance_/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jonathan_kua/adaptive_chunklets_and_aqm_for_higher-performance_/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

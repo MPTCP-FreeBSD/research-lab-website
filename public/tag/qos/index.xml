@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QoS | Deakin IOT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/tag/qos/</link>
+      <atom:link href="http://localhost:1313/tag/qos/index.xml" rel="self" type="application/rss+xml" />
+    <description>QoS</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>QoS</title>
+      <link>http://localhost:1313/tag/qos/</link>
+    </image>
+    
+    <item>
+      <title>Experience-Driven L4S Internet Service Architecture in FreeBSD</title>
+      <link>http://localhost:1313/projects/l4s/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/l4s/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Deakin IoT Lab&lt;/strong&gt; in collaboration with the &lt;strong&gt;APNIC Foundation&lt;/strong&gt; is implementing an &lt;strong&gt;experience-driven L4S Internet Service Architecture&lt;/strong&gt; in FreeBSD. This work is aligned with IETF’s RFC 9330 and aims to modernize the internet’s congestion management for applications demanding ultra-low latency.&lt;/p&gt;
+&lt;p&gt;The solution incorporates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dual-queue coupled Active Queue Management (AQM) system&lt;/li&gt;
+&lt;li&gt;Real-time dynamic optimization using reinforcement learning (A3C)&lt;/li&gt;
+&lt;li&gt;Evaluation in high-throughput environments with latency-sensitive use cases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more details, visit the &lt;a href=&#34;https://apnic.foundation/projects/implementing-an-experience-driven-l4s-internet-service-architecture-in-freebsd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official project page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

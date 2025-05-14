@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiva Raj Pokhrel and Carey Williamson on Deakin IoT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/author/shiva-raj-pokhrel-and-carey-williamson/</link>
+    <description>Recent content in Shiva Raj Pokhrel and Carey Williamson on Deakin IoT &amp; Software Engineering Lab</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/shiva-raj-pokhrel-and-carey-williamson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Game-Theoretic Rent-Seeking Framework for Improving Multipath TCP Performance</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_game-theoretic_rent-seeking_framework_for_improv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_game-theoretic_rent-seeking_framework_for_improv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A rent-seeking framework for multipath TCP</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/a_rent-seeking_framework_for_multipath_tcp/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/a_rent-seeking_framework_for_multipath_tcp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modeling Compound TCP Over WiFi for IoT</title>
+      <link>http://localhost:1313/publication/shiva_raj_pokhrel/modeling_compound_tcp_over_wifi_for_iot/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shiva_raj_pokhrel/modeling_compound_tcp_over_wifi_for_iot/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

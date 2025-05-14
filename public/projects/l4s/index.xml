@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience-Driven L4S Internet Service Architecture in FreeBSD | Deakin IOT &amp; Software Engineering Lab</title>
+    <link>http://localhost:1313/projects/l4s/</link>
+      <atom:link href="http://localhost:1313/projects/l4s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Experience-Driven L4S Internet Service Architecture in FreeBSD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>Experience-Driven L4S Internet Service Architecture in FreeBSD</title>
+      <link>http://localhost:1313/projects/l4s/</link>
+    </image>
+    
+  </channel>
+</rss>
