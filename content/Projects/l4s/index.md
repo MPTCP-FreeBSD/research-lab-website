@@ -23,7 +23,18 @@ url_pdf: ""
 url_slides: ""
 url_code: ""
 url_video: ""
-external_link: "https://apnic.foundation/projects/implementing-an-experience-driven-l4s-internet-service-architecture-in-freebsd/"
+
+
+buttons:
+  - title: Read my latest paper on LLMs
+    icon: brands/arxiv
+    url: https://arxiv.org/abs/2304.01852
+  - title: Watch my new YouTube video to achieve 20x productivity
+    icon: brands/youtube
+    url: https://youtube.com
+  - title: Connect with me on LinkedIn
+    icon: brands/linkedin
+    url: https://linkedin.com
 ---
 
 <!-- ## 
@@ -32,7 +43,14 @@ external_link: "https://apnic.foundation/projects/implementing-an-experience-dri
 
 --- -->
 
-### Project Overview
+<!-- <div style="margin-top: 1em;">
+  <a href="https://apnic.foundation/projects/implementing-an-experience-driven-l4s-internet-service-architecture-in-freebsd/" target="_blank" class="button primary">Go to Project Site</a>
+</div> -->
+
+
+
+### Project Overview 
+
 
 This project explores the integration of Deep Reinforcement Learning (DRL) and Large Language Models (LLMs) with the Low Latency, Low Loss, and Scalable Throughput (L4S) architecture to improve Internet congestion control. Hosted at Deakin University and funded by the APNIC Foundation, the project implements modular congestion control algorithms within FreeBSD, evaluates them on custom-built testbeds, and disseminates experimental results, software and datasets to the wider community.
 
@@ -71,6 +89,9 @@ All source code and supporting data from this project have been made openly avai
 
 ---
 
+[![](https://img.shields.io/badge/Go%20to%20Project%20Site-Click%20Here-blue?style=for-the-badge)](https://apnic.foundation/projects/implementing-an-experience-driven-l4s-internet-service-architecture-in-freebsd/)
+
+
 ### Get Involved
 
 Interested in collaborating or learning more? Our project continues to grow through academic and industry partnerships, conference engagement, and educational outreach.
@@ -78,3 +99,6 @@ Interested in collaborating or learning more? Our project continues to grow thro
 
 - **Contact:** [jonathan.kua@deakin.edu.au](mailto:jonathan.kua@deakin.edu.au)
 - **Contact:** [shiva.pokhrel@deakin.edu.au](mailto:shiva.pokhrel@deakin.edu.au)
+
+
+
