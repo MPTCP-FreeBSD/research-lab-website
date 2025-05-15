@@ -9,10 +9,10 @@ layout: page
 
   <div style="flex: 1; min-width: 280px;">
     <h3 style="margin-top: 0;"><a href="/projects/l4s/" style="color: #1a237e; text-decoration: none;">
-  Experience-Driven L4S Internet Service Architecture in FreeBSD
+  Implementing an Experience-driven Low Latency, Low Loss, and Scalable throughput (L4S) Internet Service Architecture using FreeBSD
 </a></h3>
     <p style="font-size: 16px; color: #444;">
-      This project explores how Low Latency, Low Loss, and Scalable Throughput (L4S) internet service architecture can be implemented in the FreeBSD networking stack. It aims to improve responsiveness in applications such as real-time communication, cloud gaming, and industrial IoT.
+      This project explores the integration of Deep Reinforcement Learning (DRL) and Large Language Models (LLMs) with the Low Latency, Low Loss, and Scalable Throughput (L4S) architecture to improve Internet congestion control. Hosted at Deakin University and funded by the APNIC Foundation, the project implements modular congestion control algorithms within FreeBSD, evaluates them on custom-built testbeds, and disseminates experimental results, software and datasets to the wider community.
     </p>
     <p style="font-size: 14px; color: #666; margin-bottom: 0;"><em>May 12, 2025</em></p>
   </div>
