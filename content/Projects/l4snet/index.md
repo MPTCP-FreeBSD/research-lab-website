@@ -1,7 +1,7 @@
 ---
-title: Experience-Driven L4S Internet Service Architecture in FreeBSD
+title: Implementing an Experience-driven Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service Architecture using FreeBSD
 
-summary: A research project enhancing low-latency, lossless, and scalable internet service delivery using the FreeBSD networking stack.
+# summary: A research project enhancing low-latency, lossless, and scalable internet service delivery using the FreeBSD networking stack.
 
 abstract: |
   This project, supported by the APNIC Foundation, focuses on implementing the IETF-defined L4S (Low Latency, Low Loss, Scalable Throughput) architecture within the FreeBSD kernel to support real-time, congestion-aware internet applications. The work involves modifying queue management systems and using reinforcement learning to dynamically optimize performance for modern digital services including cloud gaming, real-time video, and industrial IoT.
@@ -26,11 +26,11 @@ url_video: ""
 external_link: "https://apnic.foundation/projects/implementing-an-experience-driven-l4s-internet-service-architecture-in-freebsd/"
 ---
 
-## Implementing an Experience-driven Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service Architecture using FreeBSD
+<!-- ## 
 
 **A research initiative by Deakin University's IoT & Software Engineering Lab, supported by the APNIC Foundation**
 
----
+--- -->
 
 ### Project Overview
 
@@ -75,4 +75,6 @@ All source code and supporting data from this project have been made openly avai
 
 Interested in collaborating or learning more? Our project continues to grow through academic and industry partnerships, conference engagement, and educational outreach.
 
-**Contact:** [jonathan.kua@deakin.edu.au](mailto:jonathan.kua@deakin.edu.au)
+
+- **Contact:** [jonathan.kua@deakin.edu.au](mailto:jonathan.kua@deakin.edu.au)
+- **Contact:** [shiva.pokhrel@deakin.edu.au](mailto:shiva.pokhrel@deakin.edu.au)
