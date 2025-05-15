@@ -8,7 +8,7 @@ layout: page
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 40px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 280px;">
-    <h3 style="margin-top: 0;"><a href="/projects/l4snet/" style="color: #1a237e; text-decoration: none;">
+    <h3 style="margin-top: 0;"><a href="/projects/l4s/" style="color: #1a237e; text-decoration: none;">
   Experience-Driven L4S Internet Service Architecture in FreeBSD
 </a></h3>
     <p style="font-size: 16px; color: #444;">
