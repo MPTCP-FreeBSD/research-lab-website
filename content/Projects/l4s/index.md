@@ -1,6 +1,9 @@
 ---
 title: Implementing an Experience-driven Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service Architecture using FreeBSD
 
+type: page
+layout: page
+
 # summary: A research project enhancing low-latency, lossless, and scalable internet service delivery using the FreeBSD networking stack.
 
 abstract: |
@@ -23,18 +26,6 @@ url_pdf: ""
 url_slides: ""
 url_code: ""
 url_video: ""
-
-
-buttons:
-  - title: Read my latest paper on LLMs
-    icon: brands/arxiv
-    url: https://arxiv.org/abs/2304.01852
-  - title: Watch my new YouTube video to achieve 20x productivity
-    icon: brands/youtube
-    url: https://youtube.com
-  - title: Connect with me on LinkedIn
-    icon: brands/linkedin
-    url: https://linkedin.com
 ---
 
 <!-- ## 
@@ -80,12 +71,27 @@ All source code and supporting data from this project have been made openly avai
 
 ### Publications
 
-- **Pokhrel et al.**, “DDPG-MPCC: An experience driven multipath performance oriented congestion control,” *Future Internet*, Feb. 2024. [DOI](https://doi.org/10.3390/fi16020037)  
+<!-- - **Pokhrel et al.**, “DDPG-MPCC: An experience driven multipath performance oriented congestion control,” *Future Internet*, Feb. 2024. [DOI](https://doi.org/10.3390/fi16020037)  
 - **Shrestha et al.**, “On the fairness of Internet congestion control over WiFi with deep reinforcement learning,” *Future Internet*, Sept. 2024. [DOI](https://doi.org/10.3390/fi16090330)  
 - **Satish et al.**, “AQM in L4S with A3C: A FreeBSD networking stack perspective,” *Future Internet*, Aug. 2024. [DOI](https://doi.org/10.3390/fi16080265)  
 - **Pokhrel et al.**, “Multipath TCP implementation under FreeBSD-13 for pluggable ML models,” *Computer Networks*, 2024. [DOI](https://doi.org/10.1016/j.comnet.2024.110671)  
 - **Shrestha et al.**, “Adapting LLMs for improving TCP fairness over WiFi,” *arXiv*, Dec. 2024. [arXiv:2412.18200](https://arxiv.org/abs/2412.18200)  
-- **Satish et al.**, “Distilling LLMs for network AQM,” *arXiv*, Jan. 2025. [arXiv:2501.16734](https://arxiv.org/abs/2501.16734)  
+- **Satish et al.**, “Distilling LLMs for network AQM,” *arXiv*, Jan. 2025. [arXiv:2501.16734](https://arxiv.org/abs/2501.16734)   -->
+
+
+<!-- - S. R. Pokhrel, J. Kua, D. Satish, S. Ozer, J. Howe, and A. Walid., **“DDPG-MPCC: An experience driven multipath performance oriented congestion control,** Future Internet, vol. 16, no. 2, p. 37, Feb. 2024. [Online]. Available: https://doi.org/10.3390/fi16020037
+- Shrestha, S.K., Pokhrel, S.R. and Kua, J., **"On the Fairness of Internet Congestion Control over WiFi with Deep Reinforcement Learning"**. Future Internet, 16(9), p.330, Sept. 2024. [Online]. Available: https://doi.org/10.3390/fi16090330  
+- Satish, D., Kua, J. and Pokhrel, S., **"Active Queue Management in L4S with Asynchronous Advantage Actor-Critic: A FreeBSD Networking Stack Perspective"**, Aug. 2024. [Online]. Available: https://doi.org/10.3390/fi16080265
+- Pokhrel, S.R., Kua, J., Fleming, B., Ozer, S., Howe, J. and Walid, A., **"Multipath TCP implementation under FreeBSD-13 for pluggable machine learning models"**. Computer Networks, 252, p.110671, 2024. [Online]. Available: https://doi.org/10.1016/j.comnet.2024.110671
+- Shrestha, S.K., Pokhrel, S.R. and Kua, J., **"Adapting Large Language Models for Improving TCP Fairness over WiFi"**. *arXiv preprint arXiv:2412.18200*., Dec. 2024. [Online]. Available: https://arxiv.org/abs/2412.18200
+- Satish, D., Pokhrel, S.R., Kua, J. and Walid, A., **“Distilling Large Language Models for Network Active Queue Management”**. *arXiv preprint arXiv:2501.16734.*, Jan. 2025. [Online]. Available: https://arxiv.org/abs/2501.16734 -->
+
+- S. R. Pokhrel, J. Kua, D. Satish, S. Ozer, J. Howe, and A. Walid, **“DDPG-MPCC: An experience driven multipath performance oriented congestion control,”** Future Internet, vol. 16, no. 2, p. 37, Feb. 2024. [Online]. Available: https://doi.org/10.3390/fi16020037
+- S. K. Shrestha, S. R. Pokhrel, and J. Kua, **“On the fairness of internet congestion control over WiFi with deep reinforcement learning,”** Future Internet, vol. 16, no. 9, p. 330, Sept. 2024. [Online]. Available: https://doi.org/10.3390/fi16090330
+- D. Satish, J. Kua, and S. R. Pokhrel, **“Active Queue Management in L4S with Asynchronous Advantage Actor-Critic: A FreeBSD Networking Stack Perspective,”** Future Internet, vol. 16, no. 8, p. 265, Aug. 2024. [Online]. Available: https://doi.org/10.3390/fi16080265
+- S. R. Pokhrel, J. Kua, B. Fleming, S. Ozer, J. Howe, and A. Walid, **“Multipath TCP implementation under FreeBSD-13 for pluggable machine learning models,”** Computer Networks, vol. 252, p. 110671, 2024. [Online]. Available: https://doi.org/10.1016/j.comnet.2024.110671
+- S. K. Shrestha, S. R. Pokhrel, and J. Kua, **“Adapting large language models for improving TCP fairness over WiFi,”** *arXiv preprint arXiv:2412.18200*, Dec. 2024. [Online]. Available: https://arxiv.org/abs/2412.18200
+- D. Satish, S. R. Pokhrel, J. Kua, and A. Walid, **“Distilling large language models for network active queue management,”** *arXiv preprint arXiv:2501.16734*, Jan. 2025. [Online]. Available: https://arxiv.org/abs/2501.16734
 
 ---
 
