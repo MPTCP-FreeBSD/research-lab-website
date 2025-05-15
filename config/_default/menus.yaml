@@ -1,5 +1,5 @@
 main:
-  - name: "Home"
+  - name: "Tour"
     url: "tour"
     weight: 10
   - name: "News"

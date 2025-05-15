@@ -70,11 +70,11 @@ This project explores the integration of Deep Reinforcement Learning (DRL) and L
 
 All source code and supporting data from this project have been made openly available to support reproducibility and collaboration:
 
-- Experimental L4S testbed setup: [FreeBSD-L4S-Experiments](https://github.com/MPTCP-FreeBSD/FreeBSD-L4S-Experiments)  
-- DRL-enhanced congestion control stack for FreeBSD: [FreeBSD-DRL-L4S](https://github.com/MPTCP-FreeBSD/FreeBSD-DRL-L4S)  
-- Predictive congestion marking using LLMs: [L4S-LLM](https://github.com/MPTCP-FreeBSD/L4S-LLM)  
-- Adaptive TCP fairness via fine-tuned LLMs: [LLM-TCP](https://github.com/MPTCP-FreeBSD/LLM-TCP)  
-- AQM decision models powered by LLM-based inference: [AQM-LLM](https://github.com/MPTCP-FreeBSD/AQM-LLM)  
+- Experimental L4S testbed setup: [https://github.com/MPTCP-FreeBSD/FreeBSD-L4S-Experiments](https://github.com/MPTCP-FreeBSD/FreeBSD-L4S-Experiments)  
+- DRL-enhanced congestion control stack for FreeBSD: [https://github.com/MPTCP-FreeBSD/FreeBSD-DRL-L4S](https://github.com/MPTCP-FreeBSD/FreeBSD-DRL-L4S)  
+- Predictive congestion marking using LLMs: [https://github.com/MPTCP-FreeBSD/L4S-LLM](https://github.com/MPTCP-FreeBSD/L4S-LLM)  
+- Adaptive TCP fairness via fine-tuned LLMs: [https://github.com/MPTCP-FreeBSD/LLM-TCP](https://github.com/MPTCP-FreeBSD/LLM-TCP)  
+- AQM decision models powered by LLM-based inference: [https://github.com/MPTCP-FreeBSD/AQM-LLM](https://github.com/MPTCP-FreeBSD/AQM-LLM)  
 
 ---
 
