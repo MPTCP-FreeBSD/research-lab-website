@@ -1,5 +1,5 @@
 ---
-title: "Satish Deol"
+title: "Deol Satish"
 
 # Role/Position
 role: Software Engineer | AI/ML Researcher  
