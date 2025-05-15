@@ -4,7 +4,7 @@ authors:
   - Ahmed Falah and Lei Pan and Shamsul Huda and Shiva Raj Pokhrel and Adnan Anwar
 year: "2021"
 date: "2021-01-01"
-publication_types: ["2"]  # Journal Article
+publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
 publication: "N/A"
 publisher: "Elsevier BV"

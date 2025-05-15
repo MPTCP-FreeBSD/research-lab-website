@@ -4,7 +4,7 @@ authors:
   - Shuo Wang and Jonathan Kua and Jiong Jin and Ambarish Kulkarni and Prem Prakash Jayaraman and Xianghui Cao
 year: "2022"
 date: "2022-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "ACM"

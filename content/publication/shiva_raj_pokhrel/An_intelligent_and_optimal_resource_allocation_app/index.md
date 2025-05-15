@@ -4,7 +4,7 @@ authors:
   - Sumarga Kumar Sah Tyagi and Amrit Mukherjee and Shiva Raj Pokhrel and Kamal Kant Hiran
 year: "2021"
 date: "2021-01-01"
-publication_types: ["2"]  # Journal Article
+publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
 publication: "N/A"
 publisher: "Institute of Electrical and Electronics Engineers (IEEE)"

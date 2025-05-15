@@ -4,7 +4,7 @@ authors:
   - Ashritha Srikande and Mohammad Belayet Hossain and Shiva Raj Pokhrel and Jinho Choi
 year: "2022"
 date: "2022-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "IEEE"

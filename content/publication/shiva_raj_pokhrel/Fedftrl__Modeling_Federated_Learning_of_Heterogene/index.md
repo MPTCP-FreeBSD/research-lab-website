@@ -4,7 +4,7 @@ authors:
   - Zhenshuai Xu and Shiva Raj Pokhrel and Bo Yang and Gang Li
 year: "2023"
 date: "2023-01-01"
-publication_types: ["3"]  # Preprint
+publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
 publication: "N/A"
 publisher: "Elsevier BV"

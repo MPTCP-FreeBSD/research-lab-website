@@ -4,7 +4,7 @@ authors:
   - Mohammed Falih Hassan and Shiva Raj Pokhrel and Bahaa Al-Musawi
 year: "2020"
 date: "2020-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "IEEE"

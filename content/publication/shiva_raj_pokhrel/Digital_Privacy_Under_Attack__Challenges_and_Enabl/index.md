@@ -4,7 +4,7 @@ authors:
   - Baobao Song and Mengyue Deng and Shiva Raj Pokhrel and Qiujun Lan and Robin Doss and Gang Li
 year: "2001"
 date: "2001-01-01"
-publication_types: ["4"]  # Book
+publication_types: ["book"]  # Book
 publication_type_label: "Book"
 publication: "N/A"
 publisher: "CQ Press"

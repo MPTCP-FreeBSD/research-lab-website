@@ -4,7 +4,7 @@ authors:
   - Toan Luu and Quang Nguyen and Thien Tran and Minh Quang Tran and Songlin Ding and Jonathan Kua and Thuong Hoang
 year: "2024"
 date: "2024-01-01"
-publication_types: ["3"]  # Preprint
+publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
 publication: "N/A"
 publisher: "Research Square Platform LLC"

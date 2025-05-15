@@ -4,7 +4,7 @@ authors:
   - Jiong Jin and Zhibo Pang and Jonathan Kua and Quanyan Zhu and Karl H Johansson and Nikolaj Marchenko and Dave Cavalcanti
 year: "2019"
 date: "2019-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "SCITEPRESS - Science and Technology Publications"

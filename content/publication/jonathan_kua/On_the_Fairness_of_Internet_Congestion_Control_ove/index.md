@@ -4,7 +4,7 @@ authors:
   - Shyam Kumar Shrestha and Shiva Raj Pokhrel and Jonathan Kua
 year: "2024"
 date: "2024-01-01"
-publication_types: ["2"]  # Journal Article
+publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
 publication: "N/A"
 publisher: "MDPI AG"

@@ -4,7 +4,7 @@ authors:
   - VS Shankar Sriram and H Anila Glory and G Li and Shiva Pokhrel
 year: "2021"
 date: "2021-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "IEEE"

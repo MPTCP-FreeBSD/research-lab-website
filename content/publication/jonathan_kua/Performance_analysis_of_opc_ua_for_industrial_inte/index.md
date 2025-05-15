@@ -4,7 +4,7 @@ authors:
   - Marc Ladegourdie and Jonathan Kua
 year: "2022"
 date: "2022-01-01"
-publication_types: ["2"]  # Journal Article
+publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
 publication: "N/A"
 publisher: "MDPI AG"

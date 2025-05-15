@@ -4,7 +4,7 @@ authors:
   - Shiva Raj Pokhrel and Ram Chandra Pandey and Shashidhar Ram Joshi
 year: "2015"
 date: "2015-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "IEEE"

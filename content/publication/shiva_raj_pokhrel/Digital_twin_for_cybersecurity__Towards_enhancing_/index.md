@@ -4,7 +4,7 @@ authors:
   - Rajiv Faleiro and Lei Pan and Shiva Raj Pokhrel and Robin Doss
 year: "2024"
 date: "2024-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "ICCDETS"

@@ -4,7 +4,7 @@ authors:
   - Jie Ding and Mahyar Nemati and Shiva Raj Pokhrel and Ok-Sun Park and Jinho Choi and Fumiyuki Adachi
 year: "2021"
 date: "2021-01-01"
-publication_types: ["3"]  # Preprint
+publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
 publication: "N/A"
 publisher: "Institute of Electrical and Electronics Engineers (IEEE)"

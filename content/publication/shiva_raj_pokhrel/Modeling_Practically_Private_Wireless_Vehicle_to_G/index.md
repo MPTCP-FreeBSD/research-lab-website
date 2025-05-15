@@ -4,7 +4,7 @@ authors:
   - Shiva Raj Pokhrel and Mohammad Belayet Hossain and Anwar Walid
 year: "None"
 date: "2000-01-01"
-publication_types: ["3"]  # Preprint
+publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
 publication: "N/A"
 publisher: "Institute of Electrical and Electronics Engineers (IEEE)"

@@ -4,7 +4,7 @@ authors:
   - Srikanth Prabhu and Shiva Raj Pokhrel and Gang Li
 year: "2022"
 date: "2022-01-01"
-publication_types: ["5"]  # Book Chapter
+publication_types: ["book"]  # Book Chapter
 publication_type_label: "Book Chapter"
 publication: "N/A"
 publisher: "Institution of Engineering and Technology"

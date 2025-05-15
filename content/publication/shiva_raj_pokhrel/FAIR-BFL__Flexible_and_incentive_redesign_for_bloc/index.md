@@ -4,7 +4,7 @@ authors:
   - Rongxin Xu and Shiva Raj Pokhrel and Qiujun Lan and Gang Li
 year: "2022"
 date: "2022-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "ACM"

@@ -4,7 +4,7 @@ authors:
   - Jonathan Kua and Grenville Armitage
 year: "None"
 date: "2000-01-01"
-publication_types: ["3"]  # Preprint
+publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
 publication: "N/A"
 publisher: "BSI British Standards"

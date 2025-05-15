@@ -4,7 +4,7 @@ authors:
   - Shiva Raj Pokhrel and Sandeep Verma and Sahil Garg and Ajay K Sharma and Jinho Choi
 year: "2021"
 date: "2021-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "IEEE"

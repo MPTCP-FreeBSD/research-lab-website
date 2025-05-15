@@ -4,7 +4,7 @@ authors:
   - Jonathan Kua and Seng W Loke and Chetan Arora and Niroshinie Fernando and Chathurika Ranaweera
 year: "2021"
 date: "2021-01-01"
-publication_types: ["2"]  # Journal Article
+publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
 publication: "N/A"
 publisher: "MDPI AG"

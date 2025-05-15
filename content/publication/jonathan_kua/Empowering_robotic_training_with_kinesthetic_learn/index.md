@@ -4,7 +4,7 @@ authors:
   - Thien Tran and Quang Nguyen and Toan Luu and Minh Tran and Jonathan Kua and Thuong Hoang and Man Dien
 year: "2025"
 date: "2025-01-01"
-publication_types: ["2"]  # Journal Article
+publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
 publication: "N/A"
 publisher: "Elsevier BV"

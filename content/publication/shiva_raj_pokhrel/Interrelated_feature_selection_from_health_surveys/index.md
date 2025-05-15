@@ -4,7 +4,7 @@ authors:
   - Markian Jaworsky and Xiaohui Tao and Lei Pan and Shiva Raj Pokhrel and Jianming Yong and Ji Zhang
 year: "2023"
 date: "2023-01-01"
-publication_types: ["2"]  # Journal Article
+publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
 publication: "N/A"
 publisher: "Springer Science and Business Media LLC"

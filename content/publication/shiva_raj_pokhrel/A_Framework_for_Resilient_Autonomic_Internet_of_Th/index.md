@@ -4,7 +4,7 @@ authors:
   - Kaneez Fizza and Prem Prakash Jayaraman and Shiva Raj Pokhrel
 year: "2025"
 date: "2025-01-01"
-publication_types: ["3"]  # Preprint
+publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
 publication: "N/A"
 publisher: "Elsevier BV"

@@ -4,7 +4,7 @@ authors:
   - Shiva Raj Pokhrel and Jinho Choi and Anwar Walid
 year: "2022"
 date: "2022-01-01"
-publication_types: ["3"]  # Preprint
+publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
 publication: "N/A"
 publisher: "Institute of Electrical and Electronics Engineers (IEEE)"

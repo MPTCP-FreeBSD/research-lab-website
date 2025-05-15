@@ -4,7 +4,7 @@ authors:
   - Md Rashedul Islam and Yong Xiang and Md Palash Uddin and Yao Zhao and Jonathan Kua and Longxiang Gao
 year: "None"
 date: "2000-01-01"
-publication_types: ["3"]  # Preprint
+publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
 publication: "N/A"
 publisher: "Institute of Electrical and Electronics Engineers (IEEE)"

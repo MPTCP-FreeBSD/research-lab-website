@@ -4,7 +4,7 @@ authors:
   - Shiva Raj Pokhrel
 year: "2024"
 date: "2024-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "ACM"

@@ -4,7 +4,7 @@ authors:
   - Yi Xu and Zhipeng Wang and Jonathan Kua and Haoyu Luo and Ruyi Guo and Xiao Liu
 year: "2023"
 date: "2023-01-01"
-publication_types: ["1"]  # Conference Paper
+publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
 publication: "N/A"
 publisher: "IEEE"

@@ -4,7 +4,7 @@ authors:
   - Shyam Kumar Shrestha and Shiva Raj Pokhrel and Jonathan Kua
 year: "2025"
 date: "2025-01-01"
-publication_types: ["5"]  # Book Chapter
+publication_types: ["article"]  # Book Chapter
 publication_type_label: "Book Chapter"
 publication: "N/A"
 publisher: "Chapman and Hall/CRC"

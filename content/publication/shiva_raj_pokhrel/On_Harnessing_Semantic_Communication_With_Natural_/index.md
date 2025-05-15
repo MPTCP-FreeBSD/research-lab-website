@@ -4,7 +4,7 @@ authors:
   - Shiva Raj Pokhrel and Te Claire
 year: "2025"
 date: "2025-01-01"
-publication_types: ["2"]  # Journal Article
+publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
 publication: "N/A"
 publisher: "Institute of Electrical and Electronics Engineers (IEEE)"
