@@ -4,7 +4,7 @@ authors:
   - Dev Gurung and Shiva Raj Pokhrel
 year: "2025"
 date: "2025-01-01"
-publication_types: ["5"]  # Book Chapter
+publication_types: ["paper-conference"]  # Book Chapter
 publication_type_label: "Book Chapter"
 publication: "N/A"
 publisher: "Elsevier"

@@ -4,7 +4,7 @@ authors:
   - Shiva Raj Pokhrel and Dev Gurung and Navneet Singh and Naman Yash and Gang Li
 year: "2024"
 date: "2024-01-01"
-publication_types: ["5"]  # Book Chapter
+publication_types: ['short-paper']  # Book Chapter
 publication_type_label: "Book Chapter"
 publication: "N/A"
 publisher: "Elsevier"

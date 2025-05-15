@@ -4,7 +4,7 @@ authors:
   - Sanjaya Khanal and Shiva Raj Pokhrel
 year: "2024"
 date: "2024-01-01"
-publication_types: ["5"]  # Book Chapter
+publication_types: ["article"]  # Book Chapter
 publication_type_label: "Book Chapter"
 publication: "N/A"
 publisher: "Apple Academic Press"
