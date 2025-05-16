@@ -2,7 +2,12 @@
 title: "Deol Satish"
 
 # Role/Position
-role: Software Engineer | AI/ML Researcher  
+role: Associate Research Fellow 
+
+# Organizations/Affiliations
+organizations:
+  - name: Deakin University
+    url: 'https://www.deakin.edu.au/'
 
 # Contact Information
 contact:
@@ -14,7 +19,7 @@ contact:
 
 # Short Bio
 bio: >
-  Versatile Software Engineer and Honours graduate with expertise in Artificial Intelligence, Machine Learning, Web Development, and Cybersecurity. Adept at problem-solving and creating innovative solutions for dynamic, complex systems.
+ Deol Satish is a Research Fellow at the IoT Research Laboratory, Burwood, VIC, Australia, and a recent Deakin University Software Engineering (Hons.) Graduate with exceptional technical and coding abilities. His expertise in working on Networking, RF-sensing and Satellite projects involving various technologies, including kernel development, cloud computing, and machine learning is phenomenal.
 
 # Education
 education:
@@ -103,10 +108,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:deol.satish@outlook.com"
+  - icon: google-scholar
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?hl=en&user=RoHXKOoAAAAJ'  # Replace with the correct link
 
 # User Groups
 user_groups:
   - IT Professionals
   - Researchers
 ---
- Versatile Software Engineer and Honours graduate with expertise in Artificial Intelligence, Machine Learning, Web Development, and Cybersecurity. Adept at problem-solving and creating innovative solutions for dynamic, complex systems.
+Deol Satish is a Research Fellow at the IoT Research Laboratory, Burwood, VIC, Australia, and a recent Deakin University Software Engineering (Hons.) Graduate with exceptional technical and coding abilities. His expertise in working on Networking, RF-sensing and Satellite projects involving various technologies, including kernel development, cloud computing, and machine learning is phenomenal.
