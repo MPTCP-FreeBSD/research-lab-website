@@ -11,7 +11,7 @@ sections:
         Deakin University IoT and Software Engineering Lab
       text: |
         <br>
-        The Deakin IoT Lab drives innovation at the intersection of connected devices and intelligent systems. Our work spans Internet of Things (IoT), software engineering, and data-driven solutions aimed at creating real-world impact across health, environment, manufacturing, and smart cities.
+        At Deakin IoT & Software Engineering Research Lab, we drive innovation at the intersection of connected devices and intelligent systems. Our work spans Internet of Things (IoT), software engineering, and data-driven solutions aimed at creating real-world impact across health, environment, manufacturing, and smart cities.
       image:
         filename: coders.jpg
         alt: Research overview image
