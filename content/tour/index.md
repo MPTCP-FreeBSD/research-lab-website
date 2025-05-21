@@ -30,7 +30,8 @@ sections:
           align: center
           background:
             color: '#eaf3fb'
-        - title: '<span style="color:#000; font-size: 80px; font-weight: 600;">Team Lunch & Bonding</span>'
+        
+        - title: '<span style="color:#000; font-size: 60px; font-weight: 600;"></span>'
           content: |
             <div style="font-size: 30px; max-width: 1200px; margin: 40px auto; color: #000; line-height: 1.6;">
               Behind every innovative system is a connected team. From whiteboards to lunch tables, our culture is built on collaboration, celebration, and shared goals.

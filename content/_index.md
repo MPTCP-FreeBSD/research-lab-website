@@ -7,25 +7,70 @@ sections:
 
   - block: hero
     content:
-      title: |
-        <br><br><span style="font-size: 64px; font-weight: 700; display: block; line-height: 1.3;">
-        Deakin University IoT & Software Engineering Lab
-        </span>
-      text: |
-        <div style="font-size: 28px; max-width: 1000px; margin: 40px auto; color: #000; line-height: 1.7;">
-          Where smart devices meet smart people.
-          <br><br>
-          We design the future of intelligent systems - from connected health and environmental monitoring to next-gen manufacturing and smart cities. Our multidisciplinary team fuses creativity, technology, and impact-driven research to solve today’s real-world problems.
-        </div>
-
-        <img src="/media/workshop_group_photo.jpg" alt="Deakin IoT Team"
-             style="display: block; margin: 80px auto 0; max-width: 4300px; width: 170%; border-radius: 80px; box-shadow: 0 24px 80px rgba(0,0,0,0.25); transition: transform 0.3s ease-in-out;">
+      title: Deakin University IoT & Software Engineering Lab
+      text: >
+        Where smart devices meet smart people.  
+        We design the future of intelligent systems — from connected health and environmental monitoring to next-gen manufacturing and smart cities.  
+        Our multidisciplinary team fuses creativity, technology, and impact-driven research to solve today’s real-world problems.
+      image:
+        filename: iot.jpg
+        alt: Research photo
+        placement: right
+        style: |
+          max-width: 700px;
+          border-radius: 100px;
+          margin-top: 60px;
     design:
       align: center
       font_size: '36px'
       color: '#111'
-      css_class: fade-in-section
 
-custom_css:
-  - css/animations.css
+
+
+  - block: markdown
+    content:
+      title: Meet the Members
+      text: |
+        <div style="text-align: center; margin-top: 20px;">
+          <a href="/people/" class="btn btn-primary" style="font-size: 18px; padding: 12px 28px; border-radius: 8px;">
+            👥 View All Members →
+          </a>
+        </div>
+    design:
+      align: center
+      background:
+        color: '#ffffff'
+
+  - block: markdown
+    content:
+      title: Latest News
+      subtitle: Fellowship opportunity from Breakthrough Victoria
+      text: |
+        <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+
+         
+          <a href="/news/breakthrough-victoria-fellowship/" 
+             class="btn btn-outline-primary" 
+             style="margin-top: 16px; padding: 12px 24px; font-size: 16px; border-radius: 8px;">
+            Read Full News →
+          </a>
+
+        </div>
+    design:
+      background:
+        color: '#f9f9f9'
+  - block: markdown
+    content:
+      title: Current Projects
+      subtitle: Our ongoing research in scalable, real-time systems.
+      text: |
+        <div style="text-align: center; margin-top: 20px;">
+          <a href="/projects/l4s/" class="btn btn-success" style="font-size: 18px; padding: 12px 28px; border-radius: 8px;">
+            View L4S Project →
+          </a>
+        </div>
+    design:
+      align: center
+      background:
+        color: '#ffffff'
 ---
