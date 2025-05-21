@@ -7,7 +7,7 @@ sections:
   - block: slider
     content:
       slides:
-        - title: '<span style="color:#000; font-size: 80px; font-weight: 600;">Welcome to the IoT Lab</span>'
+        - title: '<span style="color:#000; font-size: 80px; font-weight: 600;">Welcome to the Deakin IoT & Software Engineering Lab</span>'
           content: |
             <div style="font-size: 30px; max-width: 1200px; margin: 40px auto; color: #000; line-height: 1.6;">
               Step into the Deakin IoT & Software Engineering Lab — where cutting-edge research meets real-world solutions. We blend innovation, collaboration, and technology to transform ideas into smart systems.

@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Get in touch with the Deakin IoT Research Group for inquiries about our projects, research opportunities, or collaborations.
+        Get in touch with the Deakin IoT & Software Engineering Lab for inquiries about our projects, research opportunities, or collaborations.
       address:
         street: Melbourne Burwood Campus
         city: Burwood
@@ -45,12 +45,13 @@ sections:
       subtitle: 'HE1.003'
       text: |
         For inquiries, contact:
-        - **Jonathan Kua**, Senior Lecturer, School of Information Technology at Deakin University
+        <br>
+        **Jonathan Kua**, Senior Lecturer, Internet of Things 
         - Email: [jonathan.kua@deakin.edu.au](mailto:jonathan.kua@deakin.edu.au)
         - Work phone: +61 3 924 68629
         
-        Or contact:
-        - **Shiva Pokhrel**, Senior Lecturer, Mobile Computing at Deakin University
+    
+        **Shiva Pokhrel**, Senior Lecturer, Mobile Computing
         - Email: [shiva.pokhrel@deakin.edu.au](mailto:shiva.pokhrel@deakin.edu.au)
         - Work phone: +61 3 924 46281
     
