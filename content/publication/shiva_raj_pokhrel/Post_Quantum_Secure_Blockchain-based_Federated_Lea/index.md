@@ -6,7 +6,7 @@ year: "2023"
 date: "2023-01-01"
 publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
-publication: "N/A"
+ #s
 publisher: "Research Square Platform LLC"
 volume: ""
 issue: ""

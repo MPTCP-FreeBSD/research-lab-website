@@ -6,7 +6,7 @@ year: "2001"
 date: "2001-01-01"
 publication_types: ["book"]  # Book
 publication_type_label: "Book"
-publication: "N/A"
+ #s
 publisher: "CQ Press"
 volume: ""
 issue: ""

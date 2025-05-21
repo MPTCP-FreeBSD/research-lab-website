@@ -6,7 +6,7 @@ year: "2014"
 date: "2014-01-01"
 publication_types: ["article-journal"]  # Book Chapter
 publication_type_label: "Book Chapter"
-publication: "N/A"
+ #s
 publisher: "Auerbach Publications"
 volume: ""
 issue: ""

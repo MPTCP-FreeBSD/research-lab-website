@@ -6,7 +6,7 @@ year: "2020"
 date: "2020-01-01"
 publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
-publication: "N/A"
+ #s
 publisher: "IEEE"
 abstract: ""
 cited_by: "8"

@@ -6,7 +6,7 @@ year: "2021"
 date: "2021-01-01"
 publication_types: ["demo-paper"]  # Book Chapter
 publication_type_label: "Book Chapter"
-publication: "N/A"
+ #s
 publisher: "Auerbach Publications"
 volume: ""
 issue: ""

@@ -6,7 +6,7 @@ year: "2024"
 date: "2024-01-01"
 publication_types: ["paper-conference"]  # Book Chapter
 publication_type_label: "Book Chapter"
-publication: "N/A"
+ #s
 publisher: "Springer Nature Singapore"
 volume: ""
 issue: ""

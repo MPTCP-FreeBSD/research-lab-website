@@ -6,7 +6,7 @@ year: "2019"
 date: "2019-01-01"
 publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
-publication: "N/A"
+ #s
 publisher: "Institute of Electrical and Electronics Engineers (IEEE)"
 volume: "18"
 issue: "3"

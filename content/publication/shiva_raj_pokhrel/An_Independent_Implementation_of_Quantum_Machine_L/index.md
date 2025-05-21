@@ -6,7 +6,7 @@ year: "2021"
 date: "2021-01-01"
 publication_types: ["article"]  # Book Chapter
 publication_type_label: "Book Chapter"
-publication: "N/A"
+ #s
 publisher: "Apress"
 volume: ""
 issue: ""

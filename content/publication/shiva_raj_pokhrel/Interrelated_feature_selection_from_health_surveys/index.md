@@ -6,7 +6,7 @@ year: "2023"
 date: "2023-01-01"
 publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
-publication: "N/A"
+ #s
 publisher: "Springer Science and Business Media LLC"
 volume: "11"
 issue: "1"

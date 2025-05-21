@@ -6,7 +6,7 @@ year: "2022"
 date: "2022-01-01"
 publication_types: ["book"]  # Book Chapter
 publication_type_label: "Book Chapter"
-publication: "N/A"
+ #s
 publisher: "Institution of Engineering and Technology"
 volume: ""
 issue: ""

@@ -6,7 +6,7 @@ year: "None"
 date: "2025-01-01"
 publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
-publication: "N/A"
+ #s
 publisher: "Queensland University of Technology"
 volume: ""
 issue: ""

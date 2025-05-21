@@ -6,7 +6,7 @@ year: "2023"
 date: "2023-01-01"
 publication_types: ["paper-conference"]  # Conference Paper
 publication_type_label: "Conference Paper"
-publication: "N/A"
+ #s
 publisher: "IEEE"
 volume: ""
 issue: ""

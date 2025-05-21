@@ -6,7 +6,7 @@ year: "2025"
 date: "2025-01-01"
 publication_types: ["article-journal"]  # Journal Article
 publication_type_label: "Journal Article"
-publication: "N/A"
+ #s
 publisher: "Elsevier BV"
 volume: "43"
 issue: ""

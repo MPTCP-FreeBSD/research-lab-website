@@ -6,7 +6,7 @@ year: "None"
 date: "2000-01-01"
 publication_types: ["article"]  # Preprint
 publication_type_label: "Preprint"
-publication: "N/A"
+ #s
 publisher: "Institute of Electrical and Electronics Engineers (IEEE)"
 volume: ""
 issue: ""

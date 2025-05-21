@@ -1,36 +1,55 @@
 ---
-type: page
-layout: page
+title: Tour
+date: 2022-10-24
+type: landing
+
+sections:
+  - block: slider
+    content:
+      slides:
+        - title: '<span style="color:#000; font-size: 80px; font-weight: 600;">Welcome to the IoT Lab</span>'
+          content: |
+            <div style="font-size: 30px; max-width: 1200px; margin: 40px auto; color: #000; line-height: 1.6;">
+              Step into the Deakin IoT & Software Engineering Lab — where cutting-edge research meets real-world solutions. We blend innovation, collaboration, and technology to transform ideas into smart systems.
+              <br><br>
+              <img src="/media/ietf_group_photo.jpg" alt="Group Photo"
+                   style="display: block; margin: 50px auto 0; max-width: 1400px; width: 100%; border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.25);">
+            </div>
+          align: center
+          background:
+            color: '#eaf3fb'
+
+        - title: '<span style="color:#000; font-size: 80px; font-weight: 600;">Workshops & Collaboration</span>'
+          content: |
+            <div style="font-size: 30px; max-width: 1200px; margin: 40px auto; color: #000; line-height: 1.6;">
+              Experience how our students, researchers, and industry partners collaborate through immersive workshops, hackathons, and live demonstrations that drive real change.
+              <br><br>
+              <img src="/media/workshop_group_photo.jpg" alt="Workshop"
+                   style="display: block; margin: 50px auto 0; max-width: 1400px; width: 100%; border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.25);">
+            </div>
+          align: center
+          background:
+            color: '#eaf3fb'
+        - title: '<span style="color:#000; font-size: 80px; font-weight: 600;">Team Lunch & Bonding</span>'
+          content: |
+            <div style="font-size: 30px; max-width: 1200px; margin: 40px auto; color: #000; line-height: 1.6;">
+              Behind every innovative system is a connected team. From whiteboards to lunch tables, our culture is built on collaboration, celebration, and shared goals.
+              <br><br>
+              <img src="/media/coders.jpg" alt="Team Lunch"
+                  style="display: block; margin: 50px auto 0; max-width: 1400px; width: 100%; border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.25);">
+            </div>
+          align: center
+          background:
+            color: '#eaf3fb'
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Learn More
+            url: "https://www.deakin.edu.au/research"
+
+    design:
+      slide_height: '100vh'
+      is_fullscreen: true
+      loop: true
+      interval: 5000
 ---
-
-<!-- Hero Section with Gradient Background -->
-<div style="
-  background: linear-gradient(135deg, #f5f7fa, #e0eafc);
-  padding: 100px 20px;
-  text-align: center;
-  font-family: 'Segoe UI', sans-serif;
-">
-
-  <h1 style="font-size: 42px; font-weight: 600; color: #222; margin-bottom: 10px;">
-    Snapshots & Highlights
-  </h1>
-
-  <p style="font-size: 20px; color: #444; margin-bottom: 40px; max-width: 720px; margin-left: auto; margin-right: auto;">
-    Moments that define our journey — where collaboration meets celebration. Here's a glimpse of our team's best memories together.
-  </p>
-
-  <img src="/media/coders.jpg" alt="Group at Restaurant"
-       style="
-         max-width: 700px;
-         width: 90%;
-         border: 10px solid #ffffff;
-         border-radius: 20px;
-         box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
-         margin-bottom: 20px;
-       ">
-
-  <figcaption style="font-size: 16px; color: #666; max-width: 600px; margin: 0 auto;">
-    <em>Our group enjoying a joyful evening at a team dinner — a perfect mix of learning, laughter, and lasting connections.</em>
-  </figcaption>
-
-</div>

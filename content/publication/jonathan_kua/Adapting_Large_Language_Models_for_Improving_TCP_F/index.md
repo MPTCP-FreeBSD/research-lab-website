@@ -6,7 +6,7 @@ year: "2025"
 date: "2025-01-01"
 publication_types: ["article"]  # Book Chapter
 publication_type_label: "Book Chapter"
-publication: "N/A"
+ #s
 publisher: "Chapman and Hall/CRC"
 volume: ""
 issue: ""

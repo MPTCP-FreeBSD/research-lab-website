@@ -6,7 +6,7 @@ year: "2011"
 date: "2011-01-01"
 publication_types: ["article"]  # Book Chapter
 publication_type_label: "Book Chapter"
-publication: "N/A"
+ #s
 publisher: "Springer US"
 volume: ""
 issue: ""
